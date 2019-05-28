@@ -36,6 +36,7 @@ export const IndexPageTemplate = ({
           flexDirection: 'column',
         }}
       >
+      <p>chachan!</p>
         <h1
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
